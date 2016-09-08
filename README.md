@@ -1,8 +1,6 @@
 # HMS
-Summay of projects maintained by HMS
+This is the repository for [GitHub pages](https://helmuttheis.github.io/)
 
-This page is under construction.
-# HMSAuth
-Authentication for Xamarin Forms as a portable library
-# HMSSPX
-A SharePoint explorer for Xamarin Forms
+
+
+
